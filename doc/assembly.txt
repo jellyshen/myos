@@ -1,0 +1,14 @@
+传送指令 mov
+mov reg idata
+mov reg reg
+mov mem reg
+mov reg mem
+mov sreg reg
+mov reg sreg
+mov mem sreg
+mov sreg mem
+
+pop push 特殊的转移指令
+
+pop reg
+pop mem
