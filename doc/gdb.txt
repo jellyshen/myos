@@ -5,5 +5,5 @@ undisplay 1
 info breakpoints
 ignore 中断编号 中断次数
 disassemble /r 0x28001b,+40
-x /3i 0x28001b
+x /nfu address  x /3i 0x28001b
 delete 断点标号
